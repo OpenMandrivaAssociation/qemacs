@@ -10,7 +10,7 @@ Patch3: qemacs-0.3.1-gcc4.patch
 License: LGPL
 Group: Editors
 BuildRoot: %_tmppath/%name-buildroot
-BuildRequires: libpng-devel XFree86-devel
+BuildRequires: libpng-devel X11-devel
 URL: http://fabrice.bellard.free.fr/qemacs/
 
 %description

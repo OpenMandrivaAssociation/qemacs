@@ -9,6 +9,7 @@ Patch2: qemacs-0.3.1-x64.patch.bz2
 Patch3: qemacs-0.3.1-gcc4.patch
 License: LGPL
 Group: Editors
+BuildRoot: %_tmppath/%name-buildroot
 BuildRequires: libpng-devel X11-devel
 URL: http://fabrice.bellard.free.fr/qemacs/
 

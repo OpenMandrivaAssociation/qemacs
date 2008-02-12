@@ -14,7 +14,6 @@ BuildRequires: libpng-devel X11-devel
 URL: http://fabrice.bellard.free.fr/qemacs/
 
 %description
-
 QEmacs (for Quick Emacs) is a very small but powerful UNIX editor. It has
 features that even big editors lack : 
 - Full screen editor with an Emacs look and feel with all Emacs common

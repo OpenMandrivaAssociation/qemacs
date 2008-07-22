@@ -1,7 +1,7 @@
 Summary: A small heavy featured editor
 Name:    qemacs
 Version: 0.3.1
-Release: %mkrel 3
+Release: %mkrel 4
 Source0: http://fabrice.bellard.free.fr/qemacs/%{name}-%{version}.tar.bz2
 Patch0: %name-configure-multiline-fix.patch.bz2
 Patch1: qemacs-0.3.1-gcc40.patch.bz2

@@ -11,7 +11,7 @@ License: LGPL
 Group: Editors
 BuildRoot: %_tmppath/%name-buildroot
 BuildRequires: libpng-devel X11-devel
-URL: http://fabrice.bellard.free.fr/qemacs/
+URL: https://fabrice.bellard.free.fr/qemacs/
 
 %description
 QEmacs (for Quick Emacs) is a very small but powerful UNIX editor. It has

@@ -10,6 +10,11 @@ Patch3: qemacs-0.3.1-gcc4.patch
 License: LGPL
 Group: Editors
 BuildRoot: %_tmppath/%name-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: libpng-devel X11-devel
 URL: https://fabrice.bellard.free.fr/qemacs/
 
